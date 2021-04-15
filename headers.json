@@ -1,0 +1,11 @@
+{
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Cookie": "opref=source%3D(direct)%26medium%3Ddoc%26campaign%3D(direct)%26referrer%3D%26site%3Dopera_com%26sub%3D; dl_token=56966027",
+    "Host": "net.geo.opera.com",
+    "Referer": "https://www.opera.com/",
+    "Upgrade-Insecure-Requests": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36"
+}
