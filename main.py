@@ -38,7 +38,8 @@ else:
     print("[-] The zip file will have an error log letting me figure out what went wrong and fix it")
     print("[-] Also call me an idiot pls while you are at it")
 
-
+print()
+susAMOGUS("instructions.txt")
 
 
 susAMOGUS("gaedoes10.txt")
