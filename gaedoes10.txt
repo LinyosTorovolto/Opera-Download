@@ -11,4 +11,6 @@ Opera does spooky shit with your data (shares search history, images you have vi
 IF YOU WANT A GOOD FREE VPN GET PROTONVPN.COM
 LINUX ON TOP! STAY MAD!
 Support me by donating monero: 44Hr3VmMaCc5jYBGhxLcuqCXetnUz7ATzefMoHT9KnKe17W4kydPqeB1zgwRwMZzrycG6GG5xDdANaaAZtWe1J982ueBNWA
+
+### All the most up-to-date code to this is available at https://github.com/LinyosTorovolto/Opera-Download/
 =============================================================================
